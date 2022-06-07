@@ -9,8 +9,7 @@ const config = {
 
 	kit: {
 		paths: {
-			base: "/road-mockups",
-			assets: "/road-mockups"
+			base: "/road-mockups"
 		},
 
 		adapter: adapter(),
