@@ -8,6 +8,11 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
+		paths: {
+			base: "/road-mockups",
+			assets: "/road-mockups"
+		},
+
 		adapter: adapter(),
 
 		// Override http methods in the Todo forms
